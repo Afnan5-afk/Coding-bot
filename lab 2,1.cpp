@@ -1,3 +1,7 @@
+//name: Afnan
+//dept: electrical eng
+//reg no 0659
+//section: B
 #include <iostream>//header file or input output library
 using namespace std;// we write it to avoid writing std before every line
 
@@ -30,3 +34,4 @@ int main() {//every C++ program starts from here
 
     return 0;//this tells the computer that program has succesfully ended
 }
+
