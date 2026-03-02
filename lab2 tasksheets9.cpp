@@ -1,3 +1,7 @@
+//name: Afnan
+//dept: electrical eng
+//reg no 0659
+//section: B
 #include <iostream>
 using namespace std;
 
@@ -29,3 +33,4 @@ int addTwo(int x, int y)
 {
     return (x + y);
 }
+
