@@ -1,3 +1,7 @@
+//name: Afnan
+//dept: electrical eng
+//reg no 0659
+//section: B
 #include <iostream>
 using namespace std;
 
@@ -20,3 +24,4 @@ int main()
 
     return 0;
 }
+
