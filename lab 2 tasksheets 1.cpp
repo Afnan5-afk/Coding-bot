@@ -1,3 +1,7 @@
+//name: Afnan
+//dept: electrical eng
+//reg no 0659
+//section: B
 // Program to run
 // Nothing will be print
 
@@ -8,3 +12,4 @@ int main()
 {
     return 0;
 }
+
