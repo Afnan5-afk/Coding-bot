@@ -1,3 +1,7 @@
+//name: Afnan
+//dept: electrical eng
+//reg no 0659
+//section: B
 #include <iostream>//this is header file
 using namespace std;//its purpose is not to write std before every line
 
@@ -13,3 +17,4 @@ int main() {//every main function of C++ starts from here
 
     return 0;//here program ends 
 }
+
