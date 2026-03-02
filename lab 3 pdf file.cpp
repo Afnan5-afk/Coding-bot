@@ -1,3 +1,7 @@
+//name: Afnan
+//dept: electrical eng
+//reg no 0659
+//section: B
 #include<iostream>
 using namespace std;// we write it to avoid writing std with every line
 int main(){//every C++ program starts from here
@@ -15,3 +19,4 @@ int main(){//every C++ program starts from here
 	}
 	return 0;
 }
+
