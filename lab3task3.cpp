@@ -1,3 +1,7 @@
+//name: Afnan
+//dept: electrical eng
+//reg no 0659
+//section: B
 #include <iostream>   // For input and output
 using namespace std;
 
@@ -19,3 +23,4 @@ int main() {
 
     return 0;   // Program ends successfully
 }
+
