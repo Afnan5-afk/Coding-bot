@@ -1,3 +1,7 @@
+//name:Afnan
+//reg no: 0659
+//dept: elctrical engineering
+//section: B
 #include<iostream>
 using namespace std;
 int main(){
@@ -16,3 +20,4 @@ int main(){
 	cout<<"reminder: "<<remainder<<endl;
 	return 0;
 }
+
